@@ -1,0 +1,46 @@
+header {
+    background-color: #adff2f;
+    height: 250px;
+}
+nav {
+    position: relative;
+    top: 52px;
+}
+nav ul li {
+    display: inline;
+}
+nav ul li a {
+    text-decoration: none;
+    background-color: #8b008b;
+    color: #ffffff;
+    border-radius: 8px 8px 0px 0px;
+    padding: 18px 25px 18px 25px;
+}
+.button {
+    text-decoration: none;
+    background-color: #8b008b;
+    padding: 10px 25px 10px 25px;
+    border-radius: 8px;
+}
+h1 {
+    color: #ffa500;
+}
+h2 {
+    color: #000000
+
+}
+p {
+    color: #000000;
+}
+
+.button:hover {
+    background-color: # #adff2f;
+}
+footer{
+background-color: #adff2f;
+    padding:25px;
+}
+a{color:#ffffff}
+    footer p{
+        color:#ffffff;
+    text-align:center;}
